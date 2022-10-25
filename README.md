@@ -1,5 +1,5 @@
 # CaixaEletronico
-## 🚀 Começando:
+## 🚀 Começando
 Exercício do curso de programação onde foi preciso criar um programa com estilo de caixa eletrônico.
 
 ## 🛠️ Construído com:
